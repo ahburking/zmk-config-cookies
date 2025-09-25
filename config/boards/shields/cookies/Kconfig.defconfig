@@ -1,0 +1,9 @@
+if SHIELD_COOKIES
+
+config ZMK_KEYBOARD_NAME
+    default "cookies"
+
+config BT_DEVICE_NAME
+    default ZMK_KEYBOARD_NAME
+
+endif

@@ -20,4 +20,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: nibble
+    shield: cookies
+  - board: nice_nano_v2
+    shield: settings resets
